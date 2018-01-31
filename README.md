@@ -11,9 +11,9 @@ Tools for converting existing open data sources into linked open data (RDF) file
 
 |Component|Github|Presentation|
 |---------|------|------------|
-|LOD CBE||https://github.com/fedict/lod-cbe|https://gitpitch.com/fedict/lod-cbe|
-|LOD CPSV||https://github.com/fedict/lod-cpsv|https://gitpitch.com/fedict/lod-cpsv|
-|LOD SBMB||https://github.com/fedict/lod-sbmb|https://gitpitch.com/fedict/lod-sbmb|
+|LOD CBE|https://github.com/fedict/lod-cbe|https://gitpitch.com/fedict/lod-cbe|
+|LOD CPSV|https://github.com/fedict/lod-cpsv|https://gitpitch.com/fedict/lod-cpsv|
+|LOD SBMB|https://github.com/fedict/lod-sbmb|https://gitpitch.com/fedict/lod-sbmb|
 
 
 ### Load and query front-ends
@@ -22,8 +22,8 @@ Generic load and query front-ends for Ontotext GraphDB.
 
 |Component|Github|Presentation|
 |---------|------|------------|
-|LOD Loader||https://github.com/fedict/lod-loader|https://gitpitch.com/fedict/lod-loader|
-|LOD Query||https://github.com/fedict/lod-query|https://gitpitch.com/fedict/lod-query|
+|LOD Loader|https://github.com/fedict/lod-loader|https://gitpitch.com/fedict/lod-loader|
+|LOD Query|https://github.com/fedict/lod-query|https://gitpitch.com/fedict/lod-query|
 
 ### Vocab.belgif.be
 
@@ -32,8 +32,8 @@ A human-friendly search interface is available, as well as an [LDF lightweight A
 
 |Component|Github|Presentation|
 |---------|------|------------|
-|LOD Skosifier||https://github.com/fedict/lod-skosifier|https://gitpitch.com/fedict/lod-skosifier|
-|LOD Vocab||https://github.com/fedict/lod-vocab|https://gitpitch.com/fedict/lod-vocab|
+|LOD Skosifier|https://github.com/fedict/lod-skosifier|https://gitpitch.com/fedict/lod-skosifier|
+|LOD Vocab|https://github.com/fedict/lod-vocab|https://gitpitch.com/fedict/lod-vocab|
 
 ### DCAT (in production since 2016) flow
 
