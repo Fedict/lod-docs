@@ -47,8 +47,8 @@ Separate flow for harvesting local, regional, federal (metadata about) open data
 
 |Github|Site|
 |------|------------|
-|https://github.com/fedict/lod-sbmbdemo|https://dev.rovin.be/sbmb|
-|https://github.com/fedict/lod-triplewalk|https://dev.rovin.be/walker|
+|https://github.com/fedict/lod-sbmbdemo|http://dev.rovin.be/sbmb|
+|https://github.com/fedict/lod-triplewalk|http://dev.rovin.be/walker|
 
 
 ## Further reading
